@@ -1,10 +1,11 @@
 {
     "name": "capsules",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "Run actions in interval capsules",
     "author": "Arunoda Susiripala <arunoda.susiripala@gmail.com>",
     "homepage": "https://github.com/arunoda/capsules",
+    "main": "./lib/capsules",
     "dependencies": {
      
-     }
+    }
 }
